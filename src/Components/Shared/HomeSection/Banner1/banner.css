@@ -1,0 +1,6 @@
+.banner-bg{
+    background-image: url('../../assets/mountains-4671122_1280.jpg');
+    height: 500px;
+    width: auto;
+    background-size: cover;
+}

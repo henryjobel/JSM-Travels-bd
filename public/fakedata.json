@@ -1,39 +1,43 @@
 [
     {
+      "id": 1,
       "name": "Alexa MedVentures",
-      "image_url": "https://via.placeholder.com/150",
-      "title": "Medical Odyssey Nomad",
-      "description": "Alexa MedVentures, a seasoned explorer in Medical Tourism, seeks the perfect balance between relaxation and cutting-edge healthcare, uncovering gems from serene spa retreats to innovative wellness destinations. Join her on a journey that redefines the boundaries of wellness."
+      "image_url": "https://i.ibb.co/RT2Xr7f/beach.jpg",
+      "title": "Holidays Package",
+      "description": "Travelncare is one of the best travel agencies in Dhaka, Bangladesh. We specialize in Corporate, Group, or Individual travel management. We build the foundation of a company by offering professional and efficient tours and travel services to our clients. Our Popular Destinations: Bangladesh, Dubai, Maldives, Nepal, India, Thailand, Singapore, Malaysia, Europe.",
+      "short_des": "Explore exotic destinations with our Holidays Packages."
     },
     {
-      "name": "Maxwell WellQuest",
-      "image_url": "https://via.placeholder.com/150",
-      "title": "Wellness Trailblazer",
-      "description": "Maxwell WellQuest, a trailblazer in Medical Tourism, explores diverse cultures and healthcare landscapes, sharing insights into transformative health experiences. Armed with a digital compass, he seeks to redefine the boundaries of wellness."
+      "id": 2,
+      "name": "Air Tickets",
+      "image_url": "https://i.ibb.co/3BCW1zk/airtickets.jpg",
+      "title": "Air Tickets",
+      "description": "Travelncare is one of the leading online travel companies. We provide a convenient way to search the best rates for airline tickets. We offer real-time bookings for more than 1,000 International & Domestic Flights.",
+      "short_des": "Book your flights with ease using our Air Tickets service."
     },
     {
+      "id": 3,
       "name": "Sophie HealSeeker",
-      "image_url": "https://via.placeholder.com/150",
-      "title": "Global Health Explorer",
-      "description": "Sophie HealSeeker delves into the realms of holistic wellness and groundbreaking medical practices, documenting the fusion of cultural exploration and health-conscious travel. Join her as she unravels the mysteries of Medical Tourism."
+      "image_url": "https://i.ibb.co/4psWKkh/hotel.jpg",
+      "title": "Hotel Booking",
+      "description": "Travelncare provides an amazing diversity of choice for your stay - from chic city apartments to luxury beach resorts. We guarantee the best available (Offline) rates.",
+      "short_des": "Find your ideal stay with our Hotel Booking service."
     },
     {
+      "id": 4,
       "name": "Elijah MedPioneer",
-      "image_url": "https://via.placeholder.com/150",
-      "title": "Medical Frontier Pioneer",
-      "description": "Elijah MedPioneer explores uncharted territories of Medical Tourism, seeking novel experiences from rejuvenating spa escapes to cutting-edge medical procedures. Embark on this odyssey into the convergence of travel and health innovation."
+      "image_url": "https://i.ibb.co/G38d9tB/doctors.jpg",
+      "title": "Medical Tourism",
+      "description": "Medical Tourism in India thrives with excellent medical services and reasonable accommodation. Our Partner Medical Travelncare Medical Support includes major cities like Bangalore, Hyderabad, Kolkata, Chennai, Delhi, and Mumbai.",
+      "short_des": "Experience top-notch healthcare with our Medical Tourism service."
     },
     {
+      "id": 5,
       "name": "Olivia WellnessExplorer",
-      "image_url": "https://via.placeholder.com/150",
-      "title": "Wellness Wanderer",
-      "description": "Olivia WellnessExplorer captures the essence of wellness, unveiling the harmony between travel and health. Join her on a journey through the landscapes of Medical Tourism, exploring rejuvenating retreats and groundbreaking medical discoveries."
-    },
-    {
-      "name": "Nathan HealthVoyager",
-      "image_url": "https://via.placeholder.com/150",
-      "title": "Voyage into Health",
-      "description": "Nathan HealthVoyager navigates the globe in search of transformative health experiences, immersing himself in diverse wellness cultures. Join this connoisseur of Medical Tourism on a voyage into health, from ancient practices to futuristic treatments."
+      "image_url": "https://i.ibb.co/ch03FRQ/cars.jpg",
+      "title": "Transfer Service",
+      "description": "Book our private transfer service for a reliable and comfortable journey to the airport, train station, cruise port, congress, meeting, dinner, or any destination. Our well-dressed and trained drivers ensure worry-free transfers.",
+      "short_des": "Enjoy hassle-free transfers with our Transfer Service."
     }
   ]
   

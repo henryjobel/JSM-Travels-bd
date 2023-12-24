@@ -2,15 +2,15 @@
 
 const Banner1 = () => {
     return (
-        <div>
-            <div className="flex items-center justify-center p-12">
+        <div className="bg-cover bg-center bg-opacity-75 bg-fixed" style={{ backgroundImage: 'url("https://i.ibb.co/7RrPF6F/maldives-1993704-1280.jpg")' }} >
+            <div className="flex items-center justify-center p-12 ">
     {/* <!-- Author: FormBold Team --> */}
-    <div className="mx-auto w-full max-w-[550px] bg-white">
+    <div className="mx-auto w-full max-w-[550px] "  data-aos="zoom-in">
         <form>
             <div className="-mx-3 flex flex-wrap">
                 <div className="w-full px-3 sm:w-1/2">
                     <div className="mb-5">
-                        <label  className="mb-3 block text-base font-medium text-[#07074D]">
+                        <label  className="mb-3 block text-base font-medium text-[#07074D]"  data-aos="zoom-in">
                             From
                         </label>
                         <input type="text" name="fName" id="fName" placeholder="First Name"
@@ -19,7 +19,7 @@ const Banner1 = () => {
                 </div>
                 <div className="w-full px-3 sm:w-1/2">
                     <div className="mb-5">
-                        <label  className="mb-3 block text-base font-medium text-[#07074D]">
+                        <label  className="mb-3 block text-base font-medium text-[#07074D]"  data-aos="zoom-in">
                             TO
                         </label>
                         <input type="text" name="lName" id="lName" placeholder="Last Name"
