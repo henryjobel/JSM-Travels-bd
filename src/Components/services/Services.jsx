@@ -5,6 +5,7 @@ import 'swiper/css/effect-coverflow';
 import 'swiper/css/pagination';
 import { EffectCoverflow, Pagination } from 'swiper/modules';
 import './service.css'
+import { Link } from 'react-router-dom';
 
 const Services = () => {
   const [services, setServices] = useState([]);
@@ -50,7 +51,7 @@ const Services = () => {
                     <h2 className="card-title">{service.title}</h2>
                     <p>{service.short_des}</p>
                     <div className="card-actions justify-center">
-                        <button className="btn btn-primary">Get More</button>
+                    <Link to={`/details/${service.id}`}><button className='btn'>See Details</button></Link>
                     </div>
                 </div>
             </div>

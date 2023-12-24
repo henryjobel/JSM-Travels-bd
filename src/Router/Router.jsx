@@ -4,6 +4,7 @@ import Home from "../Pages/Home/Home";
 import Service from "../Pages/Service/Service";
 import Aboutus from "../Pages/Aboutus/Aboutus";
 import Contactus from "../Pages/ContactUS/Contactus";
+import ServiceDetails from "../Pages/ServiceDtls/ServiceDetails";
 
 const router = createBrowserRouter([
     {
@@ -25,6 +26,11 @@ const router = createBrowserRouter([
       {
         path:"/contactus",
         element:<Contactus></Contactus>
+      },
+      {
+        path:"/details/:id",
+        element:<ServiceDetails></ServiceDetails>,
+        loader:()=> fetch('/fakedata.json')
       }
     ])
     },
