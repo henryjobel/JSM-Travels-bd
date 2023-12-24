@@ -25,7 +25,7 @@ const Services = () => {
   }, []);
 
   return (
-    <div className=" paralax-image bg-fixed">
+    <div className=" paralax-image bg-fixed" >
       <Swiper
         effect={'coverflow'}
         grabCursor={true}
@@ -44,7 +44,7 @@ const Services = () => {
       >
         {services.map((service) => (
           <SwiperSlide key={service.name}>
-            <div className="flex flex-col items-center mx-24 my-16">
+            <div className="flex flex-col items-center mx-24 my-16" data-aos="zoom-in">
             <div className="card w-96 bg-base-100 shadow-xl">
                 <figure><img src={service.image_url} alt="Shoes" /></figure>
                 <div className="card-body">
