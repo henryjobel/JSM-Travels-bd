@@ -23,7 +23,7 @@ const Service = () => {
                 <h1 className="text-4xl font-bold text-gray-900 leading-tight mb-2 border-t-4 border-b-4 border-purple-600 py-4">
                     Welcome to JSM <span className="text-blue-500">Trevel</span> BD
                 </h1>
-                <p className="text-lg text-gray-800 mb-8">Air Ticket | Domestic & International</p>
+                <p className="text-lg text-gray-800 mb-8">Air Ticket & buy more from our service </p>
             </div>
 
 
